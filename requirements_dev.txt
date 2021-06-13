@@ -1,0 +1,6 @@
+mypy==0.812
+pytest==6.2.4
+pytest-sugar==0.9.4
+faker==8.5.0
+black==21.5b2
+flake8==3.9.2
